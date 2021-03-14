@@ -20,19 +20,6 @@ Our main goal is to provide:
 
 
 
-## Project Roadmap
-
-- [ ] Identity verification system
-  - [ ] web Backend development
-  - [ ] Frontend development
-    - [ ] web
-    - [ ] mobile
-- [ ] Communication
-  - [ ] Information center
-  - [ ] Investigation center
-  - [ ] Revolution center
-
-
 
 ## The followings are the definitions & criteria for `Identity verification system`
 
@@ -121,3 +108,26 @@ The main idea is to distinguishing  `friends` or  `foes`. Although there's no pe
   - Reliable reporter
   - Data miner / contributor
   - Organization leaders of charities
+
+
+
+
+## Project Roadmap
+
+- [ ] Identity verification system
+  - [ ] VPN Server
+    - [ ] custom bash script for communication with backend
+  - [ ] web Backend development
+    - [ ] core App
+      - [ ] Split into micro services
+    - [ ] CI / CD
+  - [ ] Frontend development
+    - [ ] web
+      - [ ] functionality
+      - [ ] UX
+    - [ ] mobile
+- [ ] Communication system
+  - [ ] Third-party chat before `forum` development
+    - [ ] Information center
+    - [ ] Investigation center
+    - [ ] Revolution center
