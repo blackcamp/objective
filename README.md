@@ -115,17 +115,24 @@ The main idea is to distinguishing  `friends` or  `foes`. Although there's no pe
 ## Project Roadmap
 
 - [ ] Identity verification system
-  - [ ] VPN Server
+  - [ ] Custom VPN
+    - [ ] Managed server
+      - [ ] Use Proxy in front of VPN routes for closer Node fetching
     - [ ] custom bash script for communication with backend
   - [ ] [web Backend development](https://github.com/blackcamp/backend-api)
     - [ ] core App
+      - [ ] Functionality
+      - [ ] Create production & staging environments
       - [ ] Split into micro services
     - [ ] CI / CD
+      - [ ] push to deploy
+      - [ ] push to test
   - [ ] Frontend development
     - [ ] web
       - [ ] functionality
-      - [ ] UX
+      - [ ] UX improvements
     - [ ] mobile
+      - [ ] Requires native / flutter app developers
 - [ ] Communication system
   - [ ] Third-party chat before `forum` development
     - [ ] Information center
