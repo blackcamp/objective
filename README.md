@@ -117,7 +117,7 @@ The main idea is to distinguishing  `friends` or  `foes`. Although there's no pe
 - [ ] Identity verification system
   - [ ] VPN Server
     - [ ] custom bash script for communication with backend
-  - [ ] web Backend development
+  - [ ] [web Backend development](https://github.com/blackcamp/backend-api)
     - [ ] core App
       - [ ] Split into micro services
     - [ ] CI / CD
