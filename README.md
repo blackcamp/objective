@@ -88,7 +88,7 @@ The main idea is to distinguishing  `friends` or  `foes`. Although there's no pe
 #### If you've marked as 🔺`enemy`
 
 - You can prove yourself through **Redemption**.
-- And marked as 🟣`suspect`
+- Then marked as 🟢`verified`
 
 
 
